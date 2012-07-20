@@ -24,7 +24,6 @@
     End Sub
 private Sub BindIT()
 {
-    dim abc as string= "Add Manualy"
 ]
 
 End Class
