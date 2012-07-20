@@ -23,4 +23,9 @@
         Me.Close()
     End Sub
 
+		private sub BindRepeater()
+			
+			dim temp as string= "Adding"
+		End Sub
+
 End Class
