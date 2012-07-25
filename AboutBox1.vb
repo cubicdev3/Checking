@@ -26,6 +26,7 @@
 		private sub BindRepeater()
 			
 			dim temp as string= "Adding"
+			Nice Timings are not good.
 		End Sub
 
 End Class
